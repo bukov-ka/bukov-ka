@@ -11,4 +11,4 @@ I am on the web:
 Do not hesitate to contact me regarding anything!
 
 
-![# Author: iEvolutionGmbH from Pixabay](https://github.com/bukov-ka/bukov-ka/blob/master/assets/logodesign-pixabay.png?raw=true)
+<img src="https://github.com/bukov-ka/bukov-ka/blob/master/assets/logodesign-pixabay.png?raw=true" align="right" alt="Author: iEvolutionGmbH from Pixabay">
