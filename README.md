@@ -1,16 +1,14 @@
-### Hi there 👋
+# Hi, I am Konstantin
+I am a software developer, a manager and 3D printing evangelist.
+I am on the web:
 
-<!--
-**bukov-ka/bukov-ka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ - [Facebook](https://www.facebook.com/konstantin.borisov.121)
+ - [LinkedIn](https://www.linkedin.com/in/borisovke/)
+ - Email: borisovke@gmail.com
+ - Skype: borisovke
+ - [Thingiverse](https://www.thingiverse.com/kborisov/designs)
 
-Here are some ideas to get you started:
+Do not hesitate to contact me regarding anything!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+![# Author: iEvolutionGmbH from Pixabay](https://github.com/bukov-ka/bukov-ka/blob/master/assets/logodesign-pixabay.png?raw=true)
